@@ -1,3 +1,11 @@
 # nobs-typescript
 
-https://github.com/piyushlawatre/nobs-typescript/blob/main/notes/types/types.ts
+## Index
+
+### Variables
+#### Basic Types
+#### Objects
+### Interfaces
+### Record Types
+### Nested Record Types
+
