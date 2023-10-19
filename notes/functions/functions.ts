@@ -1,7 +1,7 @@
 function blendTwoFruits(fruityOne: number, fruityTwo: number): number {
     return fruityOne + fruityTwo;
 }
-
+// module.exports = blendTwoFruits
 // 🚫 Module exports aren't compatible with TypeScript. 🚫
 /* Instead, use the 'export' keyword to make functions or variables accessible. 🍎 */
 export default blendTwoFruits;
